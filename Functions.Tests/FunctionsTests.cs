@@ -6,6 +6,9 @@ using Xunit;
 
 namespace Functions.Tests
 {
+    /// <summary>
+    /// Functions Tests
+    /// </summary>
     public class FunctionsTests
     {
         private readonly ILogger logger = TestFactory.CreateLogger();
